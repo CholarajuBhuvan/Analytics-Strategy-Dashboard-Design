@@ -1,6 +1,8 @@
 {
+  "name": "analytics-strategy-dashboard",
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "devCommand": "npm run dev",
-  "installCommand": "npm install"
+  "installCommand": "npm install",
+  "framework": "vite"
 }
